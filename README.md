@@ -8,7 +8,7 @@
 
 - THE MOVIE DB API: https://developers.themoviedb.org/3/getting-started/introduction
 
- [![iOS openAPI를 활용한 영화 예매 앱 만들기](https://img.youtube.com/vi/22Nghvu3FfA/0.jpg)]
+ ![iOS openAPI를 활용한 영화 예매 앱 만들기](https://img.youtube.com/vi/22Nghvu3FfA/0.jpg)
 
 ## 📌 앱 설명
  ```
