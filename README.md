@@ -1,6 +1,6 @@
-# 🍿 5주차 영화 예매 앱
+# 🍿 영화 예매 앱
 
-> **프로젝트 기간 : 21.07.17 ~ 21.07.23**  
+> **프로젝트 기간 : **  
 
 ## 📌 주제
 
@@ -8,9 +8,7 @@
 
 - THE MOVIE DB API: https://developers.themoviedb.org/3/getting-started/introduction
 
- [![iOS openAPI를 활용한 영화 예매 앱 만들기](https://img.youtube.com/vi/22Nghvu3FfA/0.jpg)](https://youtu.be/22Nghvu3FfA?t=0s)
-
-👆🏻 👆🏻 👆🏻   `실행 영상 유튜브 링크`👆🏻 👆🏻 👆🏻  <br><br>
+ ![iOS openAPI를 활용한 영화 예매 앱 만들기](https://img.youtube.com/vi/22Nghvu3FfA/0.jpg)
 
 ## 📌 앱 설명
  ```
@@ -52,7 +50,3 @@
  카카오 소셜 로그인, THE MOVIE DB API, Postman, Alamofire, 상단 탭바(XLPagerTabStrip 라이브러리), 
  테이블뷰 안에 콜렉션 뷰, Delegate/Protocol, UIDatePicker, UIStepper
  ```
-
-## 📌 블로그 포스팅
-
-https://chobikim.tistory.com/37
